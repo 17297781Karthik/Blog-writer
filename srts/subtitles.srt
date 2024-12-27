@@ -1,0 +1,376 @@
+1
+00:00:00,000 --> 00:00:03,000
+ Agents are the new apps.
+
+2
+00:00:03,000 --> 00:00:07,000
+ And we expect some day for there to be thousands of agents available.
+
+3
+00:00:07,000 --> 00:00:09,000
+ We want a thousand agents to bloom.
+
+4
+00:00:09,000 --> 00:00:12,000
+ So I think we're going to live in a world where there are going to be hundreds of millions
+
+5
+00:00:12,000 --> 00:00:15,000
+ of billions of different AI agents.
+
+6
+00:00:15,000 --> 00:00:18,000
+ Eventually, probably more AI agents than there are people in the world.
+
+7
+00:00:18,000 --> 00:00:22,000
+ For the very first time, this is going to be an industry of skills.
+
+8
+00:00:22,000 --> 00:00:26,000
+ And you capture that phrase and you call it agents.
+
+9
+00:00:26,000 --> 00:00:31,000
+ But it's going to be for the very first time agents sitting on top of tools.
+
+10
+00:00:31,000 --> 00:00:36,000
+ If you're here, it's probably because you've been hearing a lot about AI agents lately.
+
+11
+00:00:36,000 --> 00:00:40,000
+ Maybe you've even checked out some other videos that go way too technical.
+
+12
+00:00:40,000 --> 00:00:44,000
+ And you thought, why don't you explain this to me like I'm five?
+
+13
+00:00:44,000 --> 00:00:45,000
+ Well, guess what?
+
+14
+00:00:45,000 --> 00:00:47,000
+ That's exactly what I'm going to do.
+
+15
+00:00:47,000 --> 00:00:54,000
+ I'm going to give you the most straightforward real world explanation of what an AI agent is.
+
+16
+00:00:56,000 --> 00:01:00,000
+ So what is it?
+
+17
+00:01:00,000 --> 00:01:04,000
+ You probably already know that AI stands for artificial intelligence.
+
+18
+00:01:04,000 --> 00:01:06,000
+ But here's where it gets interesting.
+
+19
+00:01:06,000 --> 00:01:09,000
+ AI by itself is like raw brain power.
+
+20
+00:01:09,000 --> 00:01:14,000
+ It's got all this potential, but it's not really useful until you give it a job.
+
+21
+00:01:14,000 --> 00:01:16,000
+ Enter the AI agent.
+
+22
+00:01:16,000 --> 00:01:23,000
+ Think of AI as the genius with a million ideas and the AI agent is the one who actually gets stuff done.
+
+23
+00:01:23,000 --> 00:01:28,000
+ While AI is all about smarts, an AI agent is the practical hands on version.
+
+24
+00:01:28,000 --> 00:01:35,000
+ It's like giving that genius a toss and saying, OK, now go do something useful with all that brain power.
+
+25
+00:01:35,000 --> 00:01:41,000
+ The AI agent takes the intelligence of AI and turns it into action, whether it's answering your questions,
+
+26
+00:01:41,000 --> 00:01:45,000
+ automating your work, or handling your to do list.
+
+27
+00:01:45,000 --> 00:01:50,000
+ It's the difference between knowing how to do something and actually doing it.
+
+28
+00:01:50,000 --> 00:01:58,000
+ So while AI is the brains, the AI agent is the one rolling up its sleeves and making things happen.
+
+29
+00:01:58,000 --> 00:02:01,000
+ Here is the one, two, three of AI agents.
+
+30
+00:02:01,000 --> 00:02:06,000
+ Number one, they understand AI agents listen to what you're asking or needing.
+
+31
+00:02:06,000 --> 00:02:08,000
+ Number two, they think.
+
+32
+00:02:08,000 --> 00:02:13,000
+ They process this information and figure out the best way to help you.
+
+33
+00:02:13,000 --> 00:02:15,000
+ And number three, they act.
+
+34
+00:02:15,000 --> 00:02:22,000
+ Finally, they deliver what you need, whether it's an answer, a solution, or help completing a task.
+
+35
+00:02:22,000 --> 00:02:24,000
+ Now how do they work?
+
+36
+00:02:24,000 --> 00:02:28,000
+ Imagine your parents are heading out for the evening and leaving the babysitter in charge.
+
+37
+00:02:28,000 --> 00:02:30,000
+ Remember, you're only five.
+
+38
+00:02:30,000 --> 00:02:32,000
+ They don't just walk out the door.
+
+39
+00:02:32,000 --> 00:02:34,000
+ They give them instructions.
+
+40
+00:02:34,000 --> 00:02:36,000
+ What time you need to go to bed.
+
+41
+00:02:36,000 --> 00:02:41,000
+ What you can have for a snack and what to do in case of an emergency.
+
+42
+00:02:41,000 --> 00:02:44,000
+ That's exactly how AI agents are trained.
+
+43
+00:02:44,000 --> 00:02:54,000
+ Developers provide these agents with detailed instructions using data so they know exactly how to respond in different situations.
+
+44
+00:02:54,000 --> 00:03:01,000
+ Some agents come pre-programmed with basic instructions, like a babysitter who's already experienced.
+
+45
+00:03:01,000 --> 00:03:08,000
+ Others can be customized to fit your needs, like giving the babysitter special rules for kids.
+
+46
+00:03:09,000 --> 00:03:18,000
+ Once set up, these AI agents handle tasks just as smoothly as a well-informed babysitter, freeing you up to focus on other things.
+
+47
+00:03:18,000 --> 00:03:21,000
+ So what does an AI agent actually look like?
+
+48
+00:03:21,000 --> 00:03:27,000
+ When we talk about what an AI agent looks like, it's helpful to think of it as a combination of two things.
+
+49
+00:03:27,000 --> 00:03:30,000
+ An interface and a workflow.
+
+50
+00:03:30,000 --> 00:03:36,000
+ The interface is how you interact with the AI agent, maybe through a chat window,
+
+51
+00:03:36,000 --> 00:03:40,000
+ a voice assistant, or even a button on a website.
+
+52
+00:03:40,000 --> 00:03:46,000
+ But behind that interface is where the real magic happens, and that's the workflow.
+
+53
+00:03:46,000 --> 00:03:49,000
+ Imagine a flow chart.
+
+54
+00:03:49,000 --> 00:03:54,000
+ You ask the AI agent a question or give it a command through the interface.
+
+55
+00:03:54,000 --> 00:03:56,000
+ That's the starting point.
+
+56
+00:03:56,000 --> 00:04:03,000
+ From there, the AI agent follows a series of steps or nodes in a workflow.
+
+57
+00:04:03,000 --> 00:04:08,000
+ These nodes could involve accessing information from a database,
+
+58
+00:04:08,000 --> 00:04:14,000
+ making a decision based on what it finds, or even performing a task like sending an email.
+
+59
+00:04:14,000 --> 00:04:20,000
+ The nodes in this workflow might change depending on what you ask or what the AI agent needs to do next,
+
+60
+00:04:20,000 --> 00:04:23,000
+ but it's all behind the scenes.
+
+61
+00:04:23,000 --> 00:04:32,000
+ So while you only see the interface, what's really happening is that the AI agent is working through a whole process to get you the best result.
+
+62
+00:04:32,000 --> 00:04:37,000
+ Now here's a simple four step illustration of that process.
+
+63
+00:04:37,000 --> 00:04:39,000
+ The first is the input.
+
+64
+00:04:39,000 --> 00:04:42,000
+ You ask a question or give a command.
+
+65
+00:04:42,000 --> 00:04:44,000
+ The second is processing.
+
+66
+00:04:44,000 --> 00:04:50,000
+ The AI agent thinks about what you've asked and searches for the best way to respond.
+
+67
+00:04:50,000 --> 00:04:52,000
+ Number three is action.
+
+68
+00:04:52,000 --> 00:04:58,000
+ The AI agent gives you an answer, finds information, or performs a task.
+
+69
+00:04:58,000 --> 00:05:00,000
+ And fourth is learning.
+
+70
+00:05:00,000 --> 00:05:04,000
+ The more you use it, the smarter it gets.
+
+71
+00:05:04,000 --> 00:05:07,000
+ Learning from past interactions to improve.
+
+72
+00:05:07,000 --> 00:05:09,000
+ So why is it important?
+
+73
+00:05:09,000 --> 00:05:17,000
+ AI agents are about to trigger a seismic shift in how we live and work, especially for local businesses and those who support them.
+
+74
+00:05:17,000 --> 00:05:23,000
+ Imagine AI handling routine tasks, freeing business owners to focus on growth and innovation.
+
+75
+00:05:24,000 --> 00:05:30,000
+ For local businesses, this could mean smarter customer service and more efficient operations,
+
+76
+00:05:30,000 --> 00:05:35,000
+ while agencies and service providers can deliver more value with less effort.
+
+77
+00:05:35,000 --> 00:05:38,000
+ This isn't just like another tech upgrade.
+
+78
+00:05:38,000 --> 00:05:42,000
+ It's likely the biggest transformation we'll see in our lifetime.
+
+79
+00:05:42,000 --> 00:05:47,000
+ Those who embrace AI agents now will have a major advantage.
+
+80
+00:05:47,000 --> 00:05:51,000
+ While those who don't risk being left behind in a rapidly changing world.
+
+81
+00:05:52,000 --> 00:06:00,000
+ In short, AI agents are set to revolutionize how work gets done and the impact will be massive.
+
+82
+00:06:00,000 --> 00:06:04,000
+ I hope this video helped you learn the basics of AI in a way that's easy to understand.
+
+83
+00:06:04,000 --> 00:06:09,000
+ I know there's a lot of complicated stuff out there, so if you like simple explanations,
+
+84
+00:06:09,000 --> 00:06:12,000
+ I'd really appreciate it if you could give this video a like.
+
+85
+00:06:12,000 --> 00:06:16,000
+ Subscribe to our channel and hit that notification bell.
+
+86
+00:06:16,000 --> 00:06:23,000
+ If you want to learn more and see how AI is helping businesses with things like customer service, sales, and project planning.
+
+87
+00:06:23,000 --> 00:06:27,000
+ If you're giving even a live demo of how AI agents work, check out this video here.
+
+88
+00:06:27,000 --> 00:06:35,000
+ So there you have it, an AI agent is a smart digital assistant, but understands things and acts to help you get things done.
+
+89
+00:06:35,000 --> 00:06:37,000
+ Whether at home or work.
+
+90
+00:06:37,000 --> 00:06:39,000
+ And remember, this is just the beginning.
+
+91
+00:06:39,000 --> 00:06:45,000
+ These AI agents are going to be everywhere soon, making life easier in ways we're just starting to imagine.
+
+92
+00:06:46,000 --> 00:06:54,000
+ Again, if you found this helpful, please hit that like button and subscribe for more practical content that breaks down tech into real world terms.
+
+93
+00:06:54,000 --> 00:06:59,000
+ Share it with your friends too, because now you've got the clearest understanding of AI agents out there.
+
+94
+00:06:59,000 --> 00:07:01,000
+ Good luck on your journey.
+
